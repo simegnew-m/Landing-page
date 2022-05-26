@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Maze Project
 
 You can use the [editor on GitHub](https://github.com/simegnew-m/Landing-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
